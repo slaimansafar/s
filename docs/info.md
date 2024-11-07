@@ -9,15 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
 BY USING INPUT AND OUTPUTS.
 
 ## How to test
 
-Explain how to use your project
 BY RUNNING THE SIMULATION
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 LOGIC GATES
